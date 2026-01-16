@@ -7,7 +7,7 @@ export const LOGISTICS_CONFIG = {
   LONG_DISTANCE_THRESHOLD: 100, // Limite para taxas de longa distância
   LONG_DISTANCE_FIXED_FEE: 100.00, // Taxa fixa adicional acima de 100km
   EXTRA_KM_SURCHARGE: 10.00, // Valor extra por KM acima de 100km
-  WHATSAPP_NUMBER: "5511999999999", // Exemplo de número brasileiro
+  WHATSAPP_NUMBER: "555391726002", // Contato atualizado: 53 9172-6002
   CURRENCY: "R$",
 };
 
